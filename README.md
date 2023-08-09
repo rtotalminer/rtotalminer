@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Robert</h1>
-
 <h3 align="center">A passionate developer from England.</h3>
-
-<br/>
-
 <p align="center">Check out my portfolio: https://rtotalminer.github.io/</p>
 <br/>
 <div align="center">
